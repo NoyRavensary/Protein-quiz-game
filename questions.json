@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary structure of a protein?",
+      "options": ["A folded 3D shape", "A combination of multiple polypeptide chains", "An alpha helix", "A sequence of amino acids"],
+      "correct": 3
+    },
+    {
+      "question": "Which bond is responsible for the primary structure of proteins?",
+      "options": ["Hydrogen bond", "Ionic bond", "Peptide bond", "Disulfide bond"],
+      "correct": 2
+    },
+    {
+      "question": "What is the function of hemoglobin?",
+      "options": ["Provide structural support", "Catalyze reactions", "Transport oxygen", "Transmit signals"],
+      "correct": 2
+    },
+    {
+      "question": "Which level of protein structure involves alpha helices and beta sheets?",
+      "options": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "correct": 1
+    },
+    {
+      "question": "What are enzymes?",
+      "options": ["Lipids that store energy", "Carbohydrates that provide energy", "Nucleic acids that store genetic information", "Proteins that speed up chemical reactions"],
+      "correct": 3
+    },
+    {
+      "question": "What is the monomer unit of proteins?",
+      "options": ["Amino acids", "Nucleotides", "Monosaccharides", "Fatty acids"],
+      "correct": 0
+    },
+    {
+      "question": "Which protein structure is directly determined by the sequence of DNA?",
+      "options": ["Secondary", "Tertiary", "Primary", "Quaternary"],
+      "correct": 2
+    },
+    {
+      "question": "What type of protein structure is hemoglobin an example of?",
+      "options": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+      "correct": 3
+    },
+    {
+      "question": "What is the role of ribosomes in protein synthesis?",
+      "options": ["Assemble amino acids into proteins", "Transcribe DNA into RNA", "Modify proteins after synthesis", "Degrade misfolded proteins"],
+      "correct": 0
+    },
+    {
+      "question": "Which protein transports oxygen in the blood?",
+      "options": ["Myosin", "Insulin", "Hemoglobin", "Collagen"],
+      "correct": 2
+    },
+    {
+      "question": "What is a prion?",
+      "options": ["A type of enzyme", "A misfolded protein that causes disease", "A protein that carries oxygen", "A protein hormone"],
+      "correct": 1
+    },
+    {
+      "question": "Which element is found in all proteins?",
+      "options": ["Phosphorus", "Nitrogen", "Sulfur", "Potassium"],
+      "correct": 1
+    },
+    {
+      "question": "What is denaturation in proteins?",
+      "options": ["Loss of structure and function", "Formation of a new peptide bond", "Synthesis of amino acids", "Breaking down into monomers"],
+      "correct": 0
+    },
+    {
+      "question": "Which protein is involved in muscle contraction?",
+      "options": ["Hemoglobin", "Actin", "Insulin", "Keratin"],
+      "correct": 1
+    },
+    {
+      "question": "What is the role of antibodies?",
+      "options": ["Transport nutrients", "Store energy", "Transmit genetic information", "Fight infections"],
+      "correct": 3
+    },
+    {
+      "question": "What is the structure of a nucleotide?",
+      "options": ["Sugar, phosphate group, nitrogenous base", "Glycerol, fatty acid", "Amino group, carboxyl group, R group", "Glucose ring"],
+      "correct": 0
+    },
+    {
+      "question": "What is the process by which mRNA is synthesized from a DNA template?",
+      "options": ["Translation", "Transcription", "Replication", "Transformation"],
+      "correct": 1
+    },
+    {
+      "question": "What is the building block of nucleic acids?",
+      "options": ["Nucleotide", "Amino acid", "Monosaccharide", "Fatty acid"],
+      "correct": 0
+    },
+    {
+      "question": "What is the function of DNA polymerase?",
+      "options": ["Transcribe DNA into RNA", "Catalyze the synthesis of DNA strands", "Translate mRNA into proteins", "Repair damaged DNA"],
+      "correct": 1
+    },
+    {
+      "question": "Which nitrogenous base is not found in RNA?",
+      "options": ["Thymine", "Cytosine", "Adenine", "Uracil"],
+      "correct": 0
+    },
+    {
+      "question": "What is the role of tRNA in protein synthesis?",
+      "options": ["Carry genetic information from the nucleus to the cytoplasm", "Act as a template for mRNA synthesis", "Encode the amino acid sequence of a protein", "Deliver amino acids to the ribosome"],
+      "correct": 3
+    },
+    {
+      "question": "What is the central dogma of molecular biology?",
+      "options": ["Protein is transcribed into RNA, which is translated into DNA", "DNA is replicated to produce two identical copies", "DNA is transcribed into RNA, which is translated into protein", "RNA is replicated to produce multiple copies for gene expression"],
+      "correct": 2
+    },
+    {
+      "question": "What is the function of RNA interference (RNAi) in cells?",
+      "options": ["Repair damaged DNA", "Initiate translation of mRNA", "Promote cell division", "Regulate gene expression by degrading mRNA"],
+      "correct": 3
+    }
+  ]
+}
